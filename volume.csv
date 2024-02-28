@@ -1,0 +1,44 @@
+name,symbol,si
+acre-foot,ac ft,1233.48183754752
+barrel (imperial),bl (imp),0.16365924
+barrel (petroleum); archaic blue-barrel,bl; bbl,0.15898729492800004
+barrel (US dry),bl (US),0.11562819898507501
+barrel (US fluid),fl bl (US),0.119240471196
+board-foot,bdft,0.002359737216
+bucket (imperial),bkt,0.018184360000000004
+bushel (imperial),bu (imp),0.03636872
+bushel (US dry heaped),bu (US),0.044048837708600005
+bushel (US dry level),bu (US lvl),0.03523907016687999
+cubic fathom,cu fm,6.116438863871999
+cubic foot,ft3,0.028316846592
+cubic inch,in3,1.6387064000000003e-5
+cubic metre (SI unit),m3,1
+cubic mile,cu mi,4168181825.44058
+cubic yard,yd3,0.764554857984
+cup (Canadian),c (CA),2.2730449999999999e-4
+cup (metric),c,2.5e-4
+cup (US customary),c (US),2.3658823650000004e-4
+drop (imperial),gtt,9.865646701379999e-8
+fluid drachm (imperial),fl dr,3.5516328124999998e-6
+fluid scruple (imperial),fl s,1.18387760416e-6
+gallon (beer),beer gal,0.004621152047999999
+gallon (imperial),gal (imp),0.004546090000000001
+gallon (US dry),gal (US),0.00440488377086
+gill (imperial); Noggin,gi (imp); nog,1.420653125e-4
+gill (US),gi (US),1.1829411825e-4
+hogshead (imperial),hhd (imp),0.3273184800000001
+hogshead (US),hhd (US),0.23848094239200004
+lambda,λ,1e-9
+litre(liter),L or l,0.001
+minim (imperial),min,5.91938802083e-8
+ounce (fluid imperial),fl oz (imp),2.8413062499999998e-5
+ounce (fluid US customary),US fl oz,2.9573529562499994e-5
+peck (imperial),pk,0.009092180000000002
+perch,per,0.700841953152
+pint (imperial),pt (imp),5.682612499999999e-4
+pint (US dry),pt (US dry),5.506104713575001e-4
+pint (US fluid),pt (US fl),4.7317647299999996e-4
+quart (imperial),qt (imp),0.0011365225000000002
+quart (US dry),qt (US),0.001101220942715
+tablespoon (Canadian),tbsp,1.420653125e-5
+teaspoon (Canadian),tsp,4.7355104159999995e-6

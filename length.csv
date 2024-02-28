@@ -1,0 +1,42 @@
+name,symbol,si
+ångström,Å,1e-10
+astronomical unit,au,149597870700
+attometre,am,1e-18
+"bohr, atomic unit of length",a0,5.291772109200001e-11
+chain (Gunter's; Surveyor's),ch,20.116840000000003
+ell (H),ell,1.143
+fathom,ftm,1.8288
+femtometre,fm,1e-15
+foot (Benoît) (H),ft (Ben),0.30479973499999996
+foot (Clarke's) (H),ft (Cla),0.30479726539999996
+foot (Indian) (H),ft Ind,0.30479951399999994
+"foot, metric",mf,0.3
+foot (International),ft,0.3048
+foot (Sear's) (H),ft (Sear),0.30479946999999996
+foot (US Survey),ft (US),0.30480061
+french; charriere,F,0.3
+furlong,fur,201.168
+inch (International),in,0.025400000000000002
+league (land),lea,4828
+light-year,ly,9460730472580802
+line,ln,0.002116
+link (Gunter's; Surveyor's),lnk,0.20116840000000002
+metre (SI base unit)(meter),m,1
+micrometre (old: micron),μ; μm,1e-6
+mil; thou,mil,2.54e-5
+mile (international),mi,1609.3439999999998
+nanometre,nm,1e-9
+nautical league,NL; nl,5556
+nautical mile (Admiralty),NM (Adm); nmi (Adm),1853.1839999999997
+nautical mile (international),NM; nmi,1852
+parsec,pc,30856775814913700
+picometre,pm,1e-12
+"point (American, English)[17][18]",pt,3.5145e-4
+rod; pole; perch (H),rd,5.0292
+rope (H),rope,6.096
+"toise (French, post 1667) (H)",T,1.9489999999999998
+twip,twp,1.7638e-5
+x unit; siegbahn,xu,1.0021e-13
+yard (International),yd,0.9144
+yoctometre,ym,1e-24
+zeptometre,zm,1e-21

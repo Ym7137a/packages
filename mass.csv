@@ -1,0 +1,31 @@
+name,symbol,si
+"atomic mass unit, unified",u; AMU,1.66053904e-27
+"atomic unit of mass, electron rest mass",me,9.109382910000002e-31
+carat,kt,2.051965483e-4
+carat (metric),ct,1.9999999999999998e-4
+dalton,Da,1.6605389210000005e-27
+dram (apothecary; troy),dr t,0.0038879346000000006
+dram (avoirdupois),dr av,0.0017718451953124999
+electronvolt,eV,1.7826618399999998e-36
+gamma,γ,1e-9
+grain,gr,6.479891000000001e-5
+grave,gv,1
+hundredweight (long),long cwt or cwt,50.80234544
+hundredweight (short); cental,sh cwt,45.35923699999999
+kilogram(kilogramme),kg,1
+kip,kip,453.59236999999996
+ounce (apothecary; troy),oz t,0.031103476799999998
+ounce (avoirdupois),oz av,0.028349523125
+ounce (US food nutrition labelling),oz,0.028
+pennyweight,dwt; pwt,0.0015551738399999999
+pound (avoirdupois),lb av,0.45359237
+pound (troy),lb t,0.37324172159999996
+quintal (metric),q,100
+scruple (apothecary),s ap,0.0012959781999999998
+slug; geepound; hyl,slug,14.593903
+stone,st,6.350293180000001
+"ton, assay (long)",AT,0.032600000000000004
+"ton, long",long tn or ton,1016.0469087999999
+"ton, short",sh tn,907.1847400000001
+tonne (mts unit),t,1000
+Zentner,Ztr.,NA
